@@ -1,6 +1,8 @@
 
 # The Genius of Birds book visual analysis with python
 
+Word Cloud is
+
 ## Introduction
 
 ## DATA
